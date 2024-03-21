@@ -4,7 +4,7 @@ The dataset is first analyzed and also new features are extracted using feature 
 
 The dataset used is from Kaggle.
 Feature Columns
-id - Unique ID for each home sold
+  id - Unique ID for each home sold
 date - Date of the home sale
 price - Price of each home sold
 bedrooms - Number of bedrooms
